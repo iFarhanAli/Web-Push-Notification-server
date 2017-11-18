@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../DataStore/DataStore.js"],"names":["DataStore"],"mappings":";;;;IAAMA,S","file":"DataStore.js","sourcesContent":["class DataStore {\n    \n}"]}

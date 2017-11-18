@@ -1,0 +1,8 @@
+{
+  "websocketPort": 9090,
+  "serverPort" : 8081,
+  "host" : "localhost",
+  "datastore" : "in_memory",
+  "mongo_url" : "mongodb://localhost/test"
+
+}
